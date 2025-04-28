@@ -2,7 +2,7 @@
  * Do not edit directly, this file was auto-generated.
  */
 
-export const PrimitivesColorsNeutralBlack = "#000000";
+export const PrimitivesColorsNeutralBlack = "#ff0000";
 export const PrimitivesColorsNeutralWhite = "#ffffff";
 export const PrimitivesColorsNeutralTransparent = "#ffffff00";
 export const PrimitivesColorsGray50 = "#f9fafb";
@@ -48,7 +48,6 @@ export const PrimitivesColorsTertiaryBrown900 = "#111111";
 export const PrimitivesColorsLogoColorsPurple = "#a855f7";
 export const PrimitivesColorsLogoColorsOrange = "#ff522a";
 export const PrimitivesColorsLogoColorsSky = "#00c7e7";
-export const PrimitivesColorsBg = "#edeef1";
 export const PrimitivesColorsLogoColorsV2Blue = "#1d4ed8";
 export const PrimitivesColorsLogoColorsV2Green = "#22c55e";
 export const PrimitivesColorsLogoColorsV2Rose = "#f43f5e";
