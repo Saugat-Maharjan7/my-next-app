@@ -2,7 +2,7 @@
  * Do not edit directly, this file was auto-generated.
  */
 
-export const PrimitivesColorsNeutralBlack = "#ff0000";
+export const PrimitivesColorsNeutralBlack = "#000000";
 export const PrimitivesColorsNeutralWhite = "#ffffff";
 export const PrimitivesColorsNeutralTransparent = "#ffffff00";
 export const PrimitivesColorsGray50 = "#f9fafb";

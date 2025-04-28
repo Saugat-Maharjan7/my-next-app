@@ -3,7 +3,7 @@
  */
 
 :root {
-  --primitives-colors-neutral-black: #ff0000;
+  --primitives-colors-neutral-black: #000000;
   --primitives-colors-neutral-white: #ffffff;
   --primitives-colors-neutral-transparent: rgba(255, 255, 255, 0);
   --primitives-colors-gray-50: #f9fafb;
