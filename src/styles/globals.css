@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "../style-dictionary-dist/variables.css";
 
 :root {
   --background: #ffffff;
