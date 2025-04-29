@@ -16,7 +16,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background: var(--primitives-colors-primary-purple-500);
-    --foreground: var(--primitives-colors-neutral-white);
+    --foreground: var(--primitives-colors-neutral-black);
   }
 }
 
