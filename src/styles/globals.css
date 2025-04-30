@@ -2,7 +2,7 @@
 @import "../style-dictionary-dist/variables.css";
 
 :root {
-  --background: var(--primitives-colors-primary-purple-500);
+  --background: var(--primitives-colors-primary-color-check);
   --foreground: var(--primitives-colors-neutral-white);
 }
 
